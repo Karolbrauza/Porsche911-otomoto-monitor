@@ -1,2 +1,1 @@
-# Porsche911-otomoto-monitor
-A repository for monitoring Porsche 911 offers on otomoto.pl
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
